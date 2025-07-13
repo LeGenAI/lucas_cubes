@@ -164,31 +164,31 @@ while temperature > min_temp:
 
 ---
 
-## 🏆 Jaw-Dropping Results
+## 🏆 Computational Results
 
-### 🎯 Lucas Cube Λ₇(1ˢ): The David vs Goliath Story
+### 🎯 Lucas Cube Λ₇(1ˢ): Computational Results
 
 <div align="center">
 
-| 🔥 Parameter s | 🎯 Codewords | 📊 Status | 🌟 Significance |
-|----------------|--------------|-----------|------------------|
-| **s = 3** | **11** | ✅ **OPTIMAL** | 🥉 Bronze standard |
-| **s = 4** | **13** | ✅ **OPTIMAL** | 🥈 Silver breakthrough |
-| **s = 5** | **15** | ✅ **OPTIMAL** | 🥇 **GOLD! Explicit construction realized!** |
-| **s = 6** | **15** | ✅ **OPTIMAL** | 🏆 Consistent excellence |
-| **s = 7** | **16** | ✅ **OPTIMAL** | 👑 Complete domination |
+| Parameter s | Codewords | Status | Note |
+|-------------|-----------|--------|------|
+| **s = 3** | **11** | ✅ **Near-Optimal** | Computational construction |
+| **s = 4** | **13** | ✅ **Near-Optimal** | Computational construction |
+| **s = 5** | **15** | ✅ **Optimal** | Explicit construction (s = n-2) |
+| **s = 6** | **15** | ✅ **Optimal** | Computational construction |
+| **s = 7** | **16** | ✅ **Optimal** | Computational construction |
 
 </div>
 
-### 🚀 Lucas Cube Λ₁₅(1ˢ): The Computational Giant
+### 🚀 Lucas Cube Λ₁₅(1ˢ): Large-Scale Results
 
 <div align="center">
 
-| 🔥 Parameter s | 🎯 Codewords Found | 📈 Theoretical Bound | 🎪 Achievement |
-|----------------|--------------------|--------------------|-----------------|
-| **s = 13** | **2,047** | ~2,047 | 🎯 **BULLS-EYE!** |
-| **s = 14** | **2,047** | ~2,047 | 🎪 **SPECTACULAR!** |
-| **s = 15** | **2,048** | ~2,048 | 👑 **PERFECTION!** |
+| Parameter s | Codewords Found | Theoretical Bound | Status |
+|-------------|-----------------|-------------------|---------|
+| **s = 13** | **2,047** | ~2,047 | ✅ **optimal** |
+| **s = 14** | **2,047** | ~2,047 | ✅ **optimal** |
+| **s = 15** | **2,048** | ~2,048 | ✅ **Optimal** |
 
 </div>
 
