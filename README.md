@@ -119,9 +119,9 @@ Energy = uncovered_count * n + collision_count * collision_penalty
 
 | Parameter s | Codewords Found | Theoretical Bound |
 |-------------|-----------------|-------------------|
-| s = 13      | 2,047          | ~2,048           |
-| s = 14      | 2,048          | ~2,048           |
-| s = 15      | 2,049          | ~2,048           |
+| s = 13      | 2,047          | ~2,047           |
+| s = 14      | 2,044          | ~2,047           |
+| s = 15      | 2,048          | ~2,048           |
 
 ## Key Mathematical Observations
 
