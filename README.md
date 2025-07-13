@@ -16,11 +16,11 @@
 
 ---
 
-## 🌟 Revolutionary Discovery
+## 🌟 Computational Discovery
 
-> **"We computationally discovered perfect codes beyond theoretical constructions!"** 
+> **"We computationally realized perfect codes through explicit construction!"** 
 > 
-> This repository unveils groundbreaking computational methods that discover perfect codes in generalized Lucas cubes **Λ₇(1⁵)** - providing numerical evidence and explicit constructions far beyond Mollard's theoretical framework.
+> This repository presents computational methods that discover and construct perfect codes in generalized Lucas cubes **Λ₇(1⁵)** - providing concrete implementations and numerical evidence of Mollard's theoretical framework.
 
 ### 🎯 What Makes This Special?
 
@@ -37,9 +37,9 @@
 </td>
 <td width="50%">
 
-**🚀 Beyond Theory**
-- 💥 **Numerical evidence** beyond Mollard's constructive bounds
-- 🔬 **Computational discovery** of explicit perfect codes
+**🚀 Computational Realization**
+- 💥 **Explicit constructions** of Mollard's theoretical results
+- 🔬 **Computational discovery** of perfect codes
 - 🎨 **Multiple strategies** from greedy to simulated annealing
 - 🌐 **Open-source** for global collaboration
 
@@ -88,13 +88,13 @@ Perfect codes are the **ultimate optimization** in graph theory:
 
 ```mermaid
 graph TD
-    A[🧊 Lucas Cube Λₙ(1ˢ)] --> B[🎯 Perfect Code Search]
-    B --> C[⚔️ Strategy 1: Coset Shifting]
-    B --> D[🔧 Strategy 2: Code Repair]
-    B --> E[🌀 Strategy 3: Hybrid Splice]
-    B --> F[🔥 Strategy 4: Simulated Annealing]
+    A[Lucas Cube] --> B[Perfect Code Search]
+    B --> C[Strategy 1: Coset Shifting]
+    B --> D[Strategy 2: Code Repair]
+    B --> E[Strategy 3: Hybrid Splice]
+    B --> F[Strategy 4: Simulated Annealing]
     
-    C --> G[✨ Perfect Code Found!]
+    C --> G[Perfect Code Found]
     D --> G
     E --> G
     F --> G
@@ -174,7 +174,7 @@ while temperature > min_temp:
 |----------------|--------------|-----------|------------------|
 | **s = 3** | **11** | ✅ **OPTIMAL** | 🥉 Bronze standard |
 | **s = 4** | **13** | ✅ **OPTIMAL** | 🥈 Silver breakthrough |
-| **s = 5** | **15** | ✅ **OPTIMAL** | 🥇 **GOLD! Beyond Mollard's constructions!** |
+| **s = 5** | **15** | ✅ **OPTIMAL** | 🥇 **GOLD! Explicit construction realized!** |
 | **s = 6** | **15** | ✅ **OPTIMAL** | 🏆 Consistent excellence |
 | **s = 7** | **16** | ✅ **OPTIMAL** | 👑 Complete domination |
 
@@ -196,10 +196,10 @@ while temperature > min_temp:
 
 ## 🎭 Mathematical Discoveries
 
-### 🏆 Computational Discovery 1: Exploring the Unknown Territory
-> **💥 "Perfect codes computationally found in Λ₇(1⁵), venturing into the uncharted s < n-2 region!"**
+### 🏆 Computational Discovery 1: Realizing Theoretical Results
+> **💥 "Perfect codes computationally constructed in Λ₇(1⁵), making theoretical existence tangible!"**
 
-**🔥 Impact:** Mollard proved existence for s ≥ n-2. We provide **explicit constructions** for s = n-2 = 5, opening the door to explore the mysterious s < n-2 territory where no theoretical results exist!
+**🔥 Impact:** Mollard proved existence for s ≥ n-2. We provide **concrete implementations** for s = n-2 = 5, demonstrating these theoretical results through actual computation and opening paths to explore the s < n-2 territory!
 
 ### 🧠 Conjecture 1: Linear Dependency Hypothesis (with Prof. Jong-Rak Kim)
 > **🔮 "For large n, s_min(n) may be linearly dependent on n, making the n-1, n-2 boundary portion negligible"**
@@ -287,11 +287,11 @@ else:
 
 <div align="center">
 
-**🧠 재현 백 (Baek Jae Hyun)**
+**🧠 Jae-Hyun Baek**
 
 🏛️ **Sogang University Mathematics** | 🚀 **CTO, DeepFountain Inc.**
 
-**👨‍🏫 김종락 (Jong-Rak Kim)** - *Advisor*
+**👨‍🏫 Jon-Lark Kim** - *Advisor*
 
 🏛️ **Professor, Sogang University Mathematics Department**
 
